@@ -1,2 +1,3 @@
 admin can add and remove the users
 change the data
+managet the databases
