@@ -2,9 +2,6 @@ admin can add and remove the users
 change the data
 managet the databases
 closing the oracle-connection
-
 change1
-
-
 change2 in harsh's db
 
